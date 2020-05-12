@@ -15,7 +15,7 @@ end
 def link
   old_man = "It's Dangerous To Go Alone! Take This."
   
-  puts old old_man
+  puts  old_man
 end 
 
 def all_phrases
